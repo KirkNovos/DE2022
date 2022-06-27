@@ -1,0 +1,1 @@
+server=127.0.0.1;user=root;password=12345;database=raspysanye_novoselov;sslmode=none

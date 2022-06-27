@@ -1,0 +1,208 @@
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Form1.resources
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Properties.Resources.resources
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.GenerateResource.cache
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CoreCompileInputs.cache
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe.config
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.pdb
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\BouncyCastle.Crypto.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\MySql.Data.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Buffers.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Memory.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Ubiety.Dns.Core.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\ZstdNet.dll
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.pdb
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.xml
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.xml
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.xml
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.xml
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\MySql.Data.xml
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Buffers.xml
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Memory.xml
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.xml
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CopyComplete
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.exe
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.pdb
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Test.resources
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe.config
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.pdb
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\MySql.Data.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Buffers.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Memory.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\ZstdNet.dll
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.pdb
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.xml
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\MySql.Data.xml
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Buffers.xml
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Memory.xml
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.AssemblyReference.cache
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Form1.resources
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Properties.Resources.resources
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Test.resources
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.GenerateResource.cache
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CopyComplete
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.exe
+C:\Users\Кирилл\OneDrive\Desktop\и-41\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.pdb
+\\SERVER232\Share\И-41\Проекты\Группа Разработка ИС Теория Расписания\Новосёлов.К\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.AssemblyReference.cache
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe.config
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\Raspysanye.pdb
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\MySql.Data.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Buffers.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Memory.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\ZstdNet.dll
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.pdb
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.xml
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\MySql.Data.xml
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Buffers.xml
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Memory.xml
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.AssemblyReference.cache
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Form1.resources
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Properties.Resources.resources
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Test.resources
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.GenerateResource.cache
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CopyComplete
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.exe
+C:\Users\Кирилл\OneDrive\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.pdb
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe.config
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\Raspysanye.pdb
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\ZstdNet.dll
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Form1.resources
+C:\Users\User\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Properties.Resources.resources
+C:\Users\User\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Test.resources
+C:\Users\User\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CopyComplete
+C:\Users\User\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.exe
+C:\Users\User\Desktop\Raspysanye\Raspysanye\obj\Debug\Raspysanye.pdb
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe.config
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.pdb
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\MySql.Data.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Buffers.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Memory.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\ZstdNet.dll
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.pdb
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.xml
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\MySql.Data.xml
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Buffers.xml
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Memory.xml
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.AssemblyReference.cache
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Form1.resources
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Properties.Resources.resources
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Test.resources
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.GenerateResource.cache
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CopyComplete
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.exe
+C:\Users\Кирилл\OneDrive\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.pdb
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe.config
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.exe
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Raspysanye.pdb
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\MySql.Data.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Buffers.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Memory.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\ZstdNet.dll
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.pdb
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\Google.Protobuf.xml
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\MySql.Data.xml
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Buffers.xml
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Memory.xml
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Form1.resources
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.Test.resources
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.CopyComplete
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.exe
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.pdb
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\obj\Debug\Raspysanye.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Дипломная Новосёлов Расписание\Курсовая\Raspysanye\Raspysanye\bin\Debug\itextsharp.dll

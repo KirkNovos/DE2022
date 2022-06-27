@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Raspysanye.Zanyatye">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAEAAAAAABAAAAAAAAAAAAQIAAAAAAAEAAAAAAEA=</HashCode>
+      <FileName>Zanyatye.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Raspysanye.Connect">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAAAACEAAAQAAAACAQAAEAAAAAEBAAACAAAAICE=</HashCode>
+      <FileName>Connect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Raspysanye.YacheikaRaspisanya">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAABAAAgAAAAAAAAAAAQABAAAAAAAAAAEAAQAAAAE=</HashCode>
+      <FileName>YacheikaRaspisanya.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Raspysanye.IZanyatye">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAABAAAAAAAAAAAAQIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IZanyatye.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Raspysanye.IRaspisanye">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>IRaspisanye.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

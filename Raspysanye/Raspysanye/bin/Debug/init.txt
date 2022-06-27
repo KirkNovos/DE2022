@@ -1,0 +1,1 @@
+server=server232;user=serv232;password=123456;database=raspysanye_novoselov;sslmode=none
